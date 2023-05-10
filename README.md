@@ -1,16 +1,22 @@
-# todoapplication
-npm init 
-(Download all dependicies)
 
-Download mySQL 
-https://www.mysql.com/downloads/
+Tech Stack
+Server: Node, Express, and MySQL
 
-node seed.js 
-to insert the seed.js file into the databse (do not forget to create todo database)
+Environment Variables
+To run this project, you will need to add the following environment variables to your seed file
+
+Run Locally
+Clone the project
+
+npm install 
+Download all dependicies
+
+node seed.js
+After download mysql evaluate seed.js data and insert them into mysql
 
 npm start 
 to run the server
 
-use those end point on postman to work with
+Endpoint API:
 https://documenter.getpostman.com/view/19454348/2s93XyTNZo
 

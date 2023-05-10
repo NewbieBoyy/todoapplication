@@ -3,7 +3,7 @@ Tech Stack
 Server: Node, Express, and MySQL 
 ================================
 Environment Variables 
-To run this project, you will need to add the following environment variables to your seed file
+To run this project, you will need to add the following environment variables to your seed file 
 ================================
 Run Locally
 Clone the project
